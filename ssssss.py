@@ -1,2 +1,2 @@
 import numpy as np
-import sklearn as sk
+import panda as pan
